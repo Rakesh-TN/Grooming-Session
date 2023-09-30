@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Img Task</title>
+</head>
+<body>
+    <div class="Img">
+        <img src="" alt="" height="500px" width="450px" id="Image">
+        <br>
+        <input type="text" id="url"/>
+        <button id="btn" onclick="geneRate()">Generate</button>
+    </div>
+    
+    
+    
+    <script>
+        function geneRate(){
+        let img = document.querySelector("#Image")
+        let image = document.querySelector("#url").value
+
+        img.src=image
+        }
+    </script>
+</body>
+</html>

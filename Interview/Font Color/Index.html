@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font Color</title>
+</head>
+<body>
+    <input type="text" id="input"/>
+    <input type="color" id="color"/>
+    <button id="btn" onclick="change()">Print</button>    
+
+    <script>
+        function change(){
+        let input = document.querySelector("#input").value
+        let color = document.querySelector("#color").value
+
+        let paraEl = document.createElement("h1")
+        document.body.appendChild(paraEl)
+        document.body.style="red"
+
+        paraEl.textContent=input
+        paraEl.style.color =color
+        }
+    </script>
+</body>
+</html>
