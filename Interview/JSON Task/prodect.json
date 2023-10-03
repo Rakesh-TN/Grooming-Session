@@ -1,0 +1,84 @@
+{
+    "bagList" : [
+        {
+            "id":1,
+            "Name":"PLEXY",
+            "Title":"Medium 25 L Backpack SMALL 25 L DAYPACK BAGPACK FOR DAILY ROUTINE",
+            "Price":"$1,499",
+            "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/backpack/j/i/j/-original-imagrtbsztdhghuz.jpeg?q=70",
+            "category": "Laptop Bag" 
+        },
+        {
+            "id":2,
+            "Name":"Pro Life",
+            "Title":"Small 20 L Backpack Poliyester School College Multipurpose",
+            "Price":"$1,799",
+            "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/backpack/c/q/e/-original-imagh3w8hwd7fxde.jpeg?q=70",
+            "category": "Laptop Bag"
+        },
+        {
+            "id":3,
+            "Name":"WROGN ",
+            "Title":"Medium 30 L Laptop Backpack For College School Travel Office For Men & Women",
+            "Price":"$2,999",
+            "image":"https://rukminim2.flixcart.com/image/832/  832/xif0q/backpack/q/e/v/13-backpack-for-college-school-travel-office-backpack-for-men-original-imagzskenzcbh9er.jpeg?q=70",
+            "category": "Laptop Bag"
+        },
+        {
+            "id":4,
+            "Name":"Fast look",
+            "Title":"Large 60 L Backpack Expandable Travel Rucksack for Outdoor Sport Camping Hiking Trekking Bag-Blue",
+            "Price":"$₹1,299",
+            "image":"https://rukminim2.flixcart.com/image/832/832/kybvo280/rucksack/n/v/h/expandable-travel-rucksack-for-outdoor-sport-camping-hiking-original-imagah5dkqgy9zre.jpeg?q=70",
+            "category": "Laptop Bag"
+        },
+        {
+            "id":5,
+            "Name":"SKYBAGS ",
+            "Title":"Large 33 L Backpack RIDDLE 1",
+            "Price":"$2,198",
+            "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/backpack/o/q/b/-original-imagkycghfxjf2ey.jpeg?q=70",
+            "category": "Laptop Bag"
+        },
+        {
+            "id":6,
+            "Name":"Perfect Choice",
+            "Title":"Women Maroon Shoulder Bag",
+            "Price":"$2,599",
+            "image":"https://rukminim2.flixcart.com/image/832/832/l27wtjk0/hand-messenger-bag/t/i/u/stylish-women-formal-office-college-causal-party-wears-handbag-original-imagdhejwdxuqcg9.jpeg?q=70",
+            "category": "Ladies Hand Bag"
+        },
+        {
+            "id":7,
+            "Name":"LIKE STYLE",
+            "Title":"Women Black Sling Bag",
+            "Price":"$1,599",
+            "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/hand-messenger-bag/s/i/e/-original-imagkycfwatxsyhg.jpeg?q=70",
+            "category": "Ladies Hand Bag"
+        },
+        {
+            "id":8,
+            "Name":"Leather Land",
+            "Title":"Black Women Sling Bag",
+            "Price":"$1,999",
+            "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sling-bag/j/b/u/designer-box-golden-chain-in-black-1-8-box-sling-bag-leather-original-imagg7fhyfbhuzry.jpeg?q=70",
+            "category": "Ladies Hand Bag"
+        },
+        {
+            "id":9,
+            "Name":"Ryzon",
+            "Title":"Black Women Sling Bag - Medium",
+            "Price":"$999",
+            "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sling-bag/n/y/d/-original-imagrngxhjhhjybt.jpeg?q=70",
+            "category": "Ladies Hand Bag"
+        },
+        {
+            "id":10,
+            "Name":"LaFille",
+            "Title":"Women Brown Tote",
+            "Price":"$3,199",
+            "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/hand-messenger-bag/f/q/8/dgn292-tote-bag-41-dgn292bn-tote-lafille-28-original-imagtq6fzhvucdr5.jpeg?q=70",
+            "category": "Ladies Hand Bag"
+        },
+    ]
+}
