@@ -1,0 +1,20 @@
+{
+    "pccomponants" : [
+        {
+            "id":1,
+            "Brand":"GIGABYTE",
+            "Category":"MotherBoard",
+            "Title":"GIGABYTE B760 Gaming X AX DDR4 (LGA 1700/ Intel/ B760/ ATX/ DDR4/ Triple M.2/ PCIe 4.0/ Front USB 3.2 Gen2X2 Type-C/WiFi 6E/ 2.5GbE LAN/Q-Flash Plus/PCIe EZ-Latch/Gaming Motherboard)",
+            "Price":"₹ 19,999",
+            "image":"https://m.media-amazon.com/images/I/81R57r9JKfL._SX679_.jpg"
+        },
+        {
+            "id":2,
+            "Brand":"ASUS",
+            "Category":"MotherBoard",
+            "Title":"ASUS INTEL PRIME H770-PLUS D4 13.12th Generation LGA1700 Compatible with H770 Equipped ATX Mother Board",
+            "Price":"₹ 19,999",
+            "image":"https://m.media-amazon.com/images/I/615NezuaQqL._SY450_.jpg"
+        },
+    ]
+}

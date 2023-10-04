@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&family=Russo+One&family=Young+Serif&display=swap');
+body{
+    font-family: 'Young Serif', serif;;
+}
+.brand{
+    color: black;
+    text-decoration: none;
+}
+.navbars{
+    display: flex;
+}
+.card{
+    display: flex;
+}
+.navbarsPage{
+    display: flex;
+    list-style-type: none;
+}
